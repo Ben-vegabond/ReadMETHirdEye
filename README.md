@@ -1,2 +1,2 @@
-# ReadMETHirdEye
+# ReadMEthirdEye
 Proffessional ReadME generator
